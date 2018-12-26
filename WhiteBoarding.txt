@@ -1,0 +1,26 @@
+
+***************My Understanding and Assumptions of the Problem Statements*************************
+
+
+
+Problem Statement Elaboration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assumptions
+
+
+
+1) No negative numbers will be provided in the input file
