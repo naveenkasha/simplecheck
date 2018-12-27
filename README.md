@@ -1,9 +1,5 @@
 # simplecheck
 
-
-asdfasdfasdfasdf
-
-
 Compile and Build Options.
 
 $ cmake -H. -Bbuild
